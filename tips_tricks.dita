@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tips_tricks">
+  <title>Tips and Tricks</title>
+  <shortdesc>Discover lesser-known features and expert tips to enhance your smart home experience.</shortdesc>
+  <body>
+    <p>Use widgets on your smartphone for fast access to automation routines and frequently used devices.</p>
+    <p>Enable geo-fencing to trigger automations when you leave or return home.</p>
+    <p>Group multiple devices by room or function to streamline control and visibility.</p>
+    <p>Explore third-party integrations for extended capabilities like IFTTT or SmartThings.</p>
+  </body>
+</topic>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="maintenance">
+  <title>Maintenance</title>
+  <shortdesc>Regular upkeep ensures your XSmartHomeHub runs efficiently and reliably.</shortdesc>
+  <body>
+    <p>Check for firmware updates weekly via the mobile app or web portal.</p>
+    <p>Clean device vents and connectors with a dry cloth to prevent dust buildup.</p>
+    <p>Reboot the hub monthly to clear cache and refresh system performance.</p>
+    <p>Review connected device status to identify any unresponsive nodes.</p>
+  </body>
+</topic>

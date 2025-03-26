@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="daily_usage">
+  <title>Daily Usage</title>
+  <shortdesc>How to use the XSmartHomeHub for everyday smart home control.</shortdesc>
+  <body>
+    <p>Control devices via the dashboard on the mobile app or web interface.</p>
+    <p>Use voice assistants like Alexa or Google Assistant for hands-free control.</p>
+    <p>Monitor device status, schedule tasks, and receive alerts in real-time.</p>
+  </body>
+</topic>

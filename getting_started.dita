@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="getting_started">
+  <title>Getting Started</title>
+  <shortdesc>Quick setup instructions to begin using your XSmartHomeHub.</shortdesc>
+  <body>
+    <p>Download the XSmartHome mobile app from the iOS App Store or Google Play.</p>
+    <p>Create an account and log in to begin the initial setup wizard.</p>
+    <p>The app will guide you through pairing your hub with supported smart home devices.</p>
+  </body>
+</topic>

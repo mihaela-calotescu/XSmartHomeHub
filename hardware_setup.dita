@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="hardware_setup">
+  <title>Hardware Setup</title>
+  <shortdesc>Instructions for physically setting up your XSmartHomeHub hardware.</shortdesc>
+  <body>
+    <p>Place the hub in a central location to ensure optimal wireless coverage.</p>
+    <p>Connect the hub to power and the internet via Ethernet or Wi-Fi.</p>
+    <p>Attach any optional USB accessories such as dongles for additional protocols.</p>
+  </body>
+</topic>

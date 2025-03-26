@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="custom_automations">
+  <title>Custom Automations</title>
+  <shortdesc>Learn to build powerful automations tailored to your lifestyle.</shortdesc>
+  <body>
+    <p>Create automation routines using triggers such as time, motion, or location.</p>
+    <p>Combine multiple devices into scenes for streamlined control.</p>
+    <p>Use the rule engine to define complex conditional logic for advanced use cases.</p>
+  </body>
+</topic>

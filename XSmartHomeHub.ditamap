@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="XSmartHomeHub Documentation">
+  <topicref href="overview.dita" navtitle="Overview"/>
+  <topicref href="installation.dita" navtitle="Installation Guide"/>
+  <topicref navtitle="User Guide">
+    <topicref href="getting_started.dita" navtitle="Getting Started"/>
+    <topicref navtitle="Setup Instructions">
+      <topicref href="hardware_setup.dita" navtitle="Hardware Setup"/>
+      <topicref href="software_setup.dita" navtitle="Software Setup"/>
+    </topicref>
+    <topicref navtitle="Usage Instructions">
+      <topicref href="daily_usage.dita" navtitle="Daily Usage"/>
+      <topicref navtitle="Advanced Usage">
+        <topicref href="custom_automations.dita" navtitle="Custom Automations"/>
+        <topicref href="troubleshooting_usage.dita" navtitle="Troubleshooting Usage"/>
+      </topicref>
+    </topicref>
+    <topicref href="tips_tricks.dita" navtitle="Tips and Tricks"/>
+  </topicref>
+  <topicref href="maintenance.dita" navtitle="Maintenance"/>
+  <topicref href="warranty.dita" navtitle="Warranty Information"/>
+</map>

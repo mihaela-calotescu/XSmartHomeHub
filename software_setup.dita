@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="software_setup">
+  <title>Software Setup</title>
+  <shortdesc>Guide to installing and configuring the XSmartHomeHub software.</shortdesc>
+  <body>
+    <p>Use the mobile app to connect the hub to your cloud account.</p>
+    <p>Install firmware updates during setup to ensure access to the latest features.</p>
+    <p>Grant necessary permissions such as location and notifications for full functionality.</p>
+  </body>
+</topic>

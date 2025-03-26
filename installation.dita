@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="installation">
+  <title>Installation Guide</title>
+  <shortdesc>Step-by-step guide to installing the XSmartHomeHub device.</shortdesc>
+  <body>
+    <p>To install the XSmartHomeHub, unbox the unit and connect it to a power source using the provided adapter.</p>
+    <p>Next, use an Ethernet cable to connect it to your router, or use the mobile app to configure Wi-Fi settings.</p>
+    <p>Ensure the LED indicator lights up, signaling that the hub is powered and ready for configuration.</p>
+  </body>
+</topic>
