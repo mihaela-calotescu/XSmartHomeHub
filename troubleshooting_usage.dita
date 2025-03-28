@@ -38,6 +38,10 @@
             <entry>Firmware update failure</entry>
             <entry>Ensure a stable internet connection and sufficient power supply during updates.</entry>
           </row>
+          <row>
+            <entry/>
+            <entry/>
+          </row>
         </tbody>
       </tgroup>
     </table>
